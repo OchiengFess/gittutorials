@@ -61,8 +61,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For any inquiries or suggestions, please contact:
 - **Name**: Festus Ochieng
-- **Email**: [your_email@example.com](mailto:your_email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Email**: [buenevistaonline18@gmail.com](buenevistaonline18@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/festus-ochieng-045121211/)
 
 ---
 
